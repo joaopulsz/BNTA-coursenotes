@@ -1,0 +1,23 @@
+header {
+  background-color: #f6e7d5;
+}
+
+.products {
+  background-color: #e5efdb;
+}
+
+.contact {
+  background-color: #e0eaf5;
+}
+
+footer {
+  background-color: #fdf2d1;
+}
+
+.card img {
+  width: 300px;
+}
+
+footer img {
+  width: 150px;
+}
